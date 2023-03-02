@@ -10,7 +10,7 @@ function quellueva() {
         });
 
         engine.gravity = engine.GRAVITY_NON_LINEAR;
-        engine.trail = engine.TRAIL_SMUDGE; //engine.trail = engine.TRAIL_DROPS
+        engine.trail = engine.TRAIL_DROPS; //engine.trail = engine.TRAIL_DROPS TRAIL_SMUDGE
 
         engine.rain([
             [0, 3, 8],
