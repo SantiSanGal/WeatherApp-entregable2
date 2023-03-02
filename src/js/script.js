@@ -18,6 +18,5 @@ function quellueva() {
         ], 50);
     };
     image.crossOrigin = 'anonymous';
-    image.src = '../../public/images/2.jpg';
-
+    image.src = './images/2.jpg';
 }
